@@ -1,1 +1,3 @@
-<img src="https://komarev.com/ghpvc/?4Cafes&style=flat-square&color=blue" alt=""/>
+Owner & Developer of Stellar
+4Cafes.github.io/stellar
+Thanks for visiting I guess
