@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm 4Cafes</h1>
+<h1 align="center">Hi 👋, I'm R8QE</h1>
 <h3 align="center">A teenager just coding for fun</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=4cafes&label=Profile%20views&color=0e75b6&style=flat" alt="4cafes" /> </p>
 
 
-- 🌱 I’m currently learning **Lua.**
+- 🌱 I’m currently learning **C++.**
 
 
 <h3 align="left">Connect with me:</h3>
