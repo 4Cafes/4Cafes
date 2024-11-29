@@ -8,6 +8,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
+R8QE on Discord!
 <p align="left">
 </p>
 
